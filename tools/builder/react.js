@@ -91,6 +91,7 @@ function onBuild( done, err, stats ) {
 		'comment-likes',
 		'lazy-images',
 		'wordads',
+		'scan',
 	];
 
 	// Source any JS for whitelisted modules, which will minimize us shipping much
